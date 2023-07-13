@@ -33,3 +33,6 @@
 
 # Ignore test.cpp
 test.cpp
+
+# Ignore .vscode
+.vscode
